@@ -1,0 +1,10 @@
+C:\Work\PHC\PhcGo\PHCGo\bin\Debug\PHCGo.dll
+C:\Work\PHC\PhcGo\PHCGo\bin\Debug\PHCGo.pdb
+C:\Work\PHC\PhcGo\PHCGo\bin\Debug\PHCGo.xml
+C:\Work\PHC\PhcGo\PHCGo\obj\Debug\PHCGo.vbproj.AssemblyReference.cache
+C:\Work\PHC\PhcGo\PHCGo\obj\Debug\Resources.resources
+C:\Work\PHC\PhcGo\PHCGo\obj\Debug\PHCGo.vbproj.GenerateResource.cache
+C:\Work\PHC\PhcGo\PHCGo\obj\Debug\PHCGo.vbproj.CoreCompileInputs.cache
+C:\Work\PHC\PhcGo\PHCGo\obj\Debug\PHCGo.dll
+C:\Work\PHC\PhcGo\PHCGo\obj\Debug\PHCGo.xml
+C:\Work\PHC\PhcGo\PHCGo\obj\Debug\PHCGo.pdb
